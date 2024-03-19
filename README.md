@@ -1,5 +1,6 @@
-#Naslov
-# Tim : WorldAdventure
-# Članovi: Goran Borevac, Fran Gunja i Ivan Svalina
+# 2D Platformer
+## Tim : WorldAdventure
+**Članovi**: Goran Borevac, Fran Gunja i Ivan Svalina
 
-# Opis projekta:
+## Opis projekta:
+Jako dobra videoigra gdje igrač ima kompletnu slobodu odabira
